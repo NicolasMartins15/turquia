@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Source+Sans+Pro:wght@200;300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.pimp {
+    position: absolute;
+}
+
+.turquia {
+    position: absolute;
+    margin-left: 5rem;
+    border: 1px solid black;
+    background-color: firebrick;
+    padding-block: 1rem;
+    padding-inline: 1.3rem;
+    margin-bottom: 5rem;
+}
+
+.topo {
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    margin-left: 2rem;
+
+}
+
+.branco {
+    width: 90rem;
+    margin-inline: 2.5rem;
+}
+
+.marrom {
+    position: absolute;
+    background: var(--texto);
+    color: var(--texto);
+    width: 20rem;
+    margin-left: 7.5rem;
+}
+
+.um {
+    margin-left: 10rem;
+    position: absolute;
+}
+
+.dois {
+    margin-left: 20rem;
+    position: absolute;
+}
+
+.tres {
+    margin-left: 30rem;
+    position: absolute;
+}
+
+.quatro {
+    margin-left: 40rem;
+    position: absolute;
+}
+
+.cinco {
+    margin-left: 57rem;
+    position: absolute;
+}
+
+.primeiroh3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.segundoh3 {
+    margin-bottom: 2rem;
+}
+
+.quatroh3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.cincoh3 {
+    margin-bottom: 1.5rem;
+}
+
+.seish3 {
+    margin-bottom: 1.5rem;
+}
+
+.oitoh3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.noveh3 {
+    margin-bottom: 1.5rem;
+}
+
+.onzeh3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+} 
+
+.dozeh3 {
+    margin-bottom: 1.5rem;
+}
+
+.trezeh3 {
+    margin-bottom: 1.5rem;
+}
+
+.umh2 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.doish2 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.trezh2 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
